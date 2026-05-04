@@ -1,0 +1,820 @@
+text,label,source,label_id
+"this one's essentially closed. they want to start onboarding next month, asked about team size.",Hot,synthetic,0
+Built a relationship over the last month. They like what they see but are waiting for budget cycle to open.,Warm,synthetic,1
+"after reviewing your proposal, we've decided to go in a different direction. best of luck.",Cold,synthetic,2
+how do I subscribe to your newsletter?,Warm,huggingface,1
+"She was polite but very clear -- not interested, not now, not later. Stop reaching out",Cold,synthetic,2
+can you help me speaking with somebody?,Warm,huggingface,1
+I need to check the termination charge,Cold,huggingface,2
+how do I see your reimbursement policy?,Cold,huggingface,2
+how do I check what payment payment modalities are accepted?,Hot,huggingface,0
+how can I find information about my newsletter subscription?,Warm,huggingface,1
+"VP of Operations called unprompted to confirm they want to move ahead this quarter, not next.",Hot,synthetic,0
+need help informing of signup issues,Warm,huggingface,1
+how can i get information about my pro account deletion,Cold,huggingface,2
+how do i create a standard account,Hot,huggingface,0
+can you help me receive a rebate of money?,Cold,huggingface,2
+still comparing pricing options,Warm,synthetic,1
+I am trying to speak to somebody,Warm,huggingface,1
+I want to know about unsubscribing to your newsletter,Warm,huggingface,1
+i need assistance to talk with an agent,Warm,huggingface,1
+how can i remove a platinum acclunt,Cold,huggingface,2
+wshere do i list ur allowed payment options,Hot,huggingface,0
+can you help me chatting with someone?,Warm,huggingface,1
+can you help me to speak to someone?,Warm,huggingface,1
+can you help me informing of errors with payment?,Hot,huggingface,0
+Can't afford to keep operating without a solution -- they told us to move as fast as we can.,Hot,synthetic,0
+can you help me check the compensation current status?,Cold,huggingface,2
+how do i check the current status of the reimbursement,Cold,huggingface,2
+"acct closing!! PO in system, needs countersig by fri or deal slips to Q2",Hot,synthetic,0
+I am trying to see your payment methods,Hot,huggingface,0
+Our finance team has issued the PO. Routing to your accounts team now. Please confirm receipt.,Hot,synthetic,0
+can you help me see what hours I can call customer support?,Warm,huggingface,1
+"No budget, no timeline, and three missed meetings. Even their champion has stopped responding.",Cold,synthetic,2
+"warm prospect - saw webinar, dled whitepaper, no urgency tho. schedule follow up in 6wks",Warm,synthetic,1
+I am trying to find information about opening a {{Account Type}} account,Hot,huggingface,0
+how can i ask for refunds of money,Cold,huggingface,2
+what do I have to do to check your reimbursement policy?,Cold,huggingface,2
+help me check at what time i can call customer esrvice,Warm,huggingface,1
+"I ain't registered, I need to open a {{Account Type}} account with you",Hot,huggingface,0
+I am trying to lodge a complaint against your organization,Cold,huggingface,2
+can you help me contacting a person?,Warm,huggingface,1
+i want help making a claim against u company,Cold,huggingface,2
+how can I lodge a reclamation against your business?,Cold,huggingface,2
+can you help me check the acepted payment modalities?,Hot,huggingface,0
+company is in the middle of a merger -- all new vendor decisions are on hold indefinitely.,Cold,synthetic,2
+I am trying to obtain rebates of my money,Cold,huggingface,2
+have problems with creating my standard account,Hot,huggingface,0
+can you show me what payment options you accept?,Hot,huggingface,0
+I don't know what to do to check the allowed payment options,Hot,huggingface,0
+I need help to subscribe to your newsletter,Warm,huggingface,1
+They've been shopping around for 18 months and said we're the first vendor that actually solves the problem.,Hot,synthetic,0
+mentioned our competitor by name in a positive light during the call. we're in the mix but not winning yet.,Warm,synthetic,1
+"Not proceeding despite having budget available. It's a strategic, not a financial, decision",Cold,synthetic,2
+Fourth follow-up sent with no response. Trial account was activated but never used. Closing this,Cold,synthetic,2
+how can I lodge a consumer claim against your business?,Cold,huggingface,2
+can you help me checking your reimbursement policy?,Cold,huggingface,2
+can ya help me seeing the refnd status,Cold,huggingface,2
+"you are not helpful at all, could I contact a human agent?",Warm,huggingface,1
+how can I find information about my premium account removal?,Cold,huggingface,2
+The conversation has been dead on arrival since their Q4 budget cuts.,Cold,synthetic,2
+i want assistance canceling my {{Account Type}} account,Cold,huggingface,2
+I am trying to see the accepted payment methods,Hot,huggingface,0
+refunding {{Currency Symbol}}{{Refund Amount}},Cold,huggingface,2
+can you tell me what payment methods you accept?,Hot,huggingface,0
+"Won't make a decision without seeing a pilot first -- reasonable ask, schedule one.",Warm,synthetic,1
+I am trying to list your available payment methods,Hot,huggingface,0
+how do I notify of payment problems?,Hot,huggingface,0
+"This account is like a pot slowly coming to a boil -- it'll get there, just needs time.",Warm,synthetic,1
+can you help me checking the termination charges?,Cold,huggingface,2
+can you help me to solve an issue with payment?,Hot,huggingface,0
+pricing too high not moving forward,Cold,synthetic,2
+need help to check in which cases can i ask to be refunded,Cold,huggingface,2
+I am trying to see the cancellation fee,Cold,huggingface,2
+Won't be purchasing from you -- or anyone in this space -- this fiscal year.,Cold,synthetic,2
+I am trying to check the allowed payment methods,Hot,huggingface,0
+i need help to cancel a freemium account,Cold,huggingface,2
+what do I have to do to create a standard account?,Hot,huggingface,0
+can you help me reporting a payment problem?,Hot,huggingface,0
+can ya help me contacting an operator,Warm,huggingface,1
+Has executive sponsorship but the actual decision is 6 months out -- they're starting the process early.,Warm,synthetic,1
+can you show me at what time I can contact customer service?,Warm,huggingface,1
+where do I open a standard account for my dad?,Hot,huggingface,0
+CFO personally approved the spend in yesterday's board meeting. Send PO to finance contact ASAP,Hot,synthetic,0
+i have to receive the corporate newsletter could ya help me,Warm,huggingface,1
+Please stop reaching out to our team. We've made our decision and it doesn't include your product.,Cold,synthetic,2
+can ya help me inform of errors with online payment,Hot,huggingface,0
+I have a queston about the payment,Hot,huggingface,0
+We've been evaluating solutions in this space. Your product was recommended to us. Happy to learn more.,Warm,synthetic,1
+can you tell me about my newsletter subscription?,Warm,huggingface,1
+Interested in your platform but still aligning internally. Can we reconnect in Q3?,Warm,synthetic,1
+"I have to unsubscribe to your newsletter, I need help",Warm,huggingface,1
+how do I notify of a signup problem?,Warm,huggingface,1
+how can i cancel the subscription to the company newsletter,Warm,huggingface,1
+file consumer reclamation against ur company,Cold,huggingface,2
+I am trying to talk to somebody,Warm,huggingface,1
+can you show me the withdrawal penalties?,Cold,huggingface,2
+can you help me sign up to the corporate newsletter?,Warm,huggingface,1
+"Attended our enterprise webinar last Tuesday, asked two questions during Q&A. Worth a follow-up.",Warm,synthetic,1
+how can I notify of sign-up issues?,Warm,huggingface,1
+can you help me seeing the accetped payment methods?,Hot,huggingface,0
+strong positive feedback after the pilot -- but they decided the switching cost wasn't worth it.,Cold,synthetic,2
+Key champion left the company. His replacement has no knowledge of the evaluation and isn't interested.,Cold,synthetic,2
+how can I check what payment methods are allowed?,Hot,huggingface,0
+I am trying to inform of payment problems,Hot,huggingface,0
+how can i check ur money back guarantee,Cold,huggingface,2
+can you help me seeing what payment methods are allowed?,Hot,huggingface,0
+No decision authority yet -- but actively building a proposal to present to leadership.,Warm,synthetic,1
+He liked the demo but said 'we're not ready to make any decisions yet.' That's okay.,Warm,synthetic,1
+I am trying to list your acceoted payment options,Hot,huggingface,0
+Organization-wide software freeze due to budget cuts. They asked us not to reach out until 2027.,Cold,synthetic,2
+can you help me see the accepted payment methods?,Hot,huggingface,0
+how can i get information about pro account cancellations,Cold,huggingface,2
+No budget approved yet -- but they've verbally committed and the CFO is fast-tracking approval this week.,Hot,synthetic,0
+can you help me see in what cases can I ask to be refunded?,Cold,huggingface,2
+can you help me make a clain against your business?,Cold,huggingface,2
+can you help me to receive a refund?,Cold,huggingface,2
+Circling but not landing. Very common mid-funnel behavior -- stay visible without being pushy.,Warm,synthetic,1
+I want assistance seeing the bloody cancellation fee,Cold,huggingface,2
+how can I inform of issues with online payment?,Hot,huggingface,0
+They've been circling this decision for months. Last call they finally said 'let's land the plane' and asked for contracts.,Hot,synthetic,0
+what do I need to do to speak to customer service?,Warm,huggingface,1
+how can I inform of a payment error?,Hot,huggingface,0
+help to report problems with registrations,Warm,huggingface,1
+how can I notify of an error with a registration?,Warm,huggingface,1
+how can i check at what time i can call customer support,Warm,huggingface,1
+They've been burning money on manual processes for two years. They said 'enough is enough' and want a solution immediately.,Hot,synthetic,0
+"you are not helpful at all, help to speak with an assistant",Warm,huggingface,1
+We're about 6 months away from making a decision but wanted to start the research now,Warm,synthetic,1
+can you help me to list your accepted payment modalities?,Hot,huggingface,0
+I have problems with the deletion of my {{Account Category}} account,Cold,huggingface,2
+need assistance to see your accepted payment options,Hot,huggingface,0
+assistance to check your payment modalities,Hot,huggingface,0
+I want to subscribe to your company newsletter,Warm,huggingface,1
+can you help me seeing the cancellation charges?,Cold,huggingface,2
+can you help me seeing the accepted payment options?,Hot,huggingface,0
+I'm trying to check the termination fee,Cold,huggingface,2
+how do I list the allowed payment methods?,Hot,huggingface,0
+I am trying to check what hours I can reach customer support,Warm,huggingface,1
+want help seeing at what time I can reach customer servie,Warm,huggingface,1
+how can i contact customer support,Warm,huggingface,1
+have a question about the deletion of my {{Account Category}} account,Cold,huggingface,2
+"trial activated but low usage - check in, offer help session. potential still there",Warm,synthetic,1
+how can I get infomation about my pro account cancellation?,Cold,huggingface,2
+how do i notify of a sign-up error,Warm,huggingface,1
+can you help me to unsubscribe to the corporate newsletter?,Warm,huggingface,1
+can you help me making a complaint?,Cold,huggingface,2
+"I want to track my rebate, I need assistance",Cold,huggingface,2
+can you help me to see the withdrawal fees?,Cold,huggingface,2
+can you help me checking your accepted payment modalities?,Hot,huggingface,0
+"I paid {{Currency Symbol}}{{Refund Amount}} for an order, can you help me receive a rebate?",Cold,huggingface,2
+signed off by board - all 3 execs. implementation team on standby. GO,Hot,synthetic,0
+2nd call done - still exploring. said 'not now but maybe later in the yr',Warm,synthetic,1
+"Competitor dropped the ball on their implementation. Client called us directly, wants to switch this month.",Hot,synthetic,0
+Their manager is supportive but needs buy-in from two other departments before proceeding.,Warm,synthetic,1
+help to see ur available paymnet options,Hot,huggingface,0
+how to report problems with payment?,Hot,huggingface,0
+I want to know more about opening a standard account,Hot,huggingface,0
+keeps asking great product questions but every time i mention pricing they change the subject.,Warm,synthetic,1
+"Kinda interested but told me budget is tied up through Q3. Plant seeds, harvest later.",Warm,synthetic,1
+are charges for services reimbursable,Cold,huggingface,2
+Never seen a prospect this ready to buy -- asking about custom enterprise tiers already.,Hot,synthetic,0
+I am trying to chat with someone,Warm,huggingface,1
+i want help demanding rebates of my money,Cold,huggingface,2
+I have got to subscribe to the fucking newsletter,Warm,huggingface,1
+where to make a relcamation against your company?,Cold,huggingface,2
+"I need to check in what cases can I request refunds, help me",Cold,huggingface,2
+Mid-funnel. Talking to three vendors. We're in the mix -- need to differentiate on support quality,Warm,synthetic,1
+how can I get refunds of my money?,Cold,huggingface,2
+"Won't reconsider, even if pricing changes. They have philosophical objections to the approach.",Cold,synthetic,2
+"They're exploring the space broadly, not us specifically. Good engagement though.",Warm,synthetic,1
+need assistance seeing ur available payment methods,Hot,huggingface,0
+"budget unlckd, legal sign-off rcvd, just need our signature. close this TODAY",Hot,synthetic,0
+They're in research mode -- gathering intelligence before making any moves. Smart buyer.,Warm,synthetic,1
+Interesting product. Could you share some customer case studies relevant to our industry? No rush.,Warm,synthetic,1
+the champion is interested but says the organization isn't aligned. classic internal political situation.,Warm,synthetic,1
+is it possible to make a reclamation against your business?,Cold,huggingface,2
+assistance to swee the accepted payment options,Hot,huggingface,0
+can you help me to inform of a problem with a registration?,Warm,huggingface,1
+I want to know about signing up to your company newsletter,Warm,huggingface,1
+"hot - final 2 vendors, selection tmrw. must send competitive pricing tonight",Hot,synthetic,0
+Please remove me from your mailing list. We're not interested in this type of solution,Cold,synthetic,2
+how do I cancel the subscription to the newsletter?,Warm,huggingface,1
+can you help me subscribe to your newsletter?,Warm,huggingface,1
+described us as 'exactly what the doctor ordered' -- their words. asking for implementation timeline now.,Hot,synthetic,0
+Prospect explicitly asked to be removed from all communications. Mark as do-not-contact.,Cold,synthetic,2
+i want assistance to see the compensation current status,Cold,huggingface,2
+need to see at what time customer assistance avaialble is,Warm,huggingface,1
+can you help me request a rebate of money?,Cold,huggingface,2
+how do I remove a pro account?,Cold,huggingface,2
+No more vendor comparisons needed -- their committee voted unanimously to go with us.,Hot,synthetic,0
+responded to our outreach email asking for more details on integrations. promising early sign.,Warm,synthetic,1
+how can I obtain refunds of my money?,Cold,huggingface,2
+need help to check ur accepted payment modalities,Hot,huggingface,0
+Dead end. They told me outright they're not evaluating any new vendors this year.,Cold,synthetic,2
+"I do not need my damn {{Account Category}} account, help to close it",Cold,huggingface,2
+Hi -- just confirming we'd like to proceed. Can you send the final agreement for review by EOD?,Hot,synthetic,0
+I have to see how long reimbursements take,Cold,huggingface,2
+Described their situation as 'feeling the pain but not bleeding enough to act yet.',Warm,synthetic,1
+can you help me speaking with a human agent ?,Warm,huggingface,1
+can you help me speak to a live agent?,Warm,huggingface,1
+know if there is anything new on the rebate,Cold,huggingface,2
+how can i notify of issues with online payment,Hot,huggingface,0
+need to inform o a signup error,Warm,huggingface,1
+can you help me check the rebate current status?,Cold,huggingface,2
+contract redlines returned -- minor. legal says we can close this week if we agree to the sla terms.,Hot,synthetic,0
+I am trying to speak with an operator,Warm,huggingface,1
+assistance to check your accepted payment methods,Hot,huggingface,0
+They've been ghosting us for 10 weeks. LinkedIn message was seen but not replied to. Archive this,Cold,synthetic,2
+I am trying to talk with an agent,Warm,huggingface,1
+"Said they're 'ready to move forward' but meant they're ready to start the formal evaluation process, not buy.",Warm,synthetic,1
+how can i check ur accepted payment options,Hot,huggingface,0
+I am trying to check what payment options are accepted,Hot,huggingface,0
+Can't get internal alignment right now but the champion keeps the conversation alive.,Warm,synthetic,1
+She called me three times this week asking about implementation dates. Very hot.,Hot,synthetic,0
+I'm not registered I'm trying to create a bloody {{Account Type}} acount,Hot,huggingface,0
+how do i create a premium account,Hot,huggingface,0
+do you have a free number to contact customer support?,Warm,huggingface,1
+I need help to sign up to your company newsletter,Warm,huggingface,1
+how do I see what hours I can call customer assistance?,Warm,huggingface,1
+I need assistance to sign up to the newsletter,Warm,huggingface,1
+can you help me report a problem with online payment?,Hot,huggingface,0
+can you help me solve errors with payments?,Hot,huggingface,0
+can you help me create a premium account?,Hot,huggingface,0
+The team loved the pilot results. We're ready to scale to the full deployment. Send the contract,Hot,synthetic,0
+Shortlisted to final two vendors; their selection committee meets next Tuesday to make the call.,Hot,synthetic,0
+can you help me seeing the early exit penalties?,Cold,huggingface,2
+Their CTO said the integration took him 20 minutes to test and he 'won't let this one get away.',Hot,synthetic,0
+open {{Account Category}} cacount for wife,Hot,huggingface,0
+how can I inform of sign-up issues?,Warm,huggingface,1
+Replied to my email after three weeks. Short response but they're still in play.,Warm,synthetic,1
+legal team reviewing proposal,Hot,synthetic,0
+We appreciate the demo but this doesn't align with our current technology strategy,Cold,synthetic,2
+how can i notify of errors with a sign-up,Warm,huggingface,1
+Meeting pushed from 30 mins to 2 hours -- they brought in 5 stakeholders. Decision is imminent.,Hot,synthetic,0
+need assistance to speak to somebody,Warm,huggingface,1
+how do I report troubles with payments?,Hot,huggingface,0
+check at what time i can get in touch with customer service,Warm,huggingface,1
+"attended demo, liked it, comparing w/ 2 others. no timeline given. nurture mode",Warm,synthetic,1
+help me see your accepted payment methods,Hot,huggingface,0
+how can I check your available payment modalities?,Hot,huggingface,0
+"this is it - 4th call this wk, they want to get started. draft SOW tonight",Hot,synthetic,0
+what do I need to do to file a consumer claim?,Cold,huggingface,2
+can you help me subscribing to your corporate newsletter?,Warm,huggingface,1
+i expect a compensation of {{Currency Symbol}}{{Refund Amount}},Cold,huggingface,2
+can you help me notifying of troubles with online payment?,Hot,huggingface,0
+wanna ceck what hours i can contact customer assistance,Warm,huggingface,1
+can you help me create a {{Account Type}} account?,Hot,huggingface,0
+need assistance solving problems with payment,Hot,huggingface,0
+I do not know what I need to do to contact customer service,Warm,huggingface,1
+how do I inform of an issue with a signup?,Warm,huggingface,1
+"They're done evaluating. Waiting on their internal sign-off, should come through any day now.",Hot,synthetic,0
+I need to see how long reimbursements take,Cold,huggingface,2
+can you help me lodging a complaint against your company?,Cold,huggingface,2
+how can I talk to customer assistance?,Warm,huggingface,1
+help to check the compensation current status,Cold,huggingface,2
+how do I subscribe to the corporate newsletter?,Warm,huggingface,1
+can you help me listing your allowed payment methods?,Hot,huggingface,0
+can you help me seeing in which cases can I request refunds?,Cold,huggingface,2
+i do not know what i have to do to list the payment methods,Hot,huggingface,0
+i have a problem with the cancellation of my {{Account Category}} account,Cold,huggingface,2
+want assistance to notify of payment issues,Hot,huggingface,0
+how can I report a trouble with online payment?,Hot,huggingface,0
+how can I see if there is anything wrong with my rebate?,Cold,huggingface,2
+"trial expired, 0 logins, 0 replies. dead lead. archive",Cold,synthetic,2
+want assistance checking your available payment modalities,Hot,huggingface,0
+cancel {{Account Type}} acount,Cold,huggingface,2
+how do I check what hours I can call customer support?,Warm,huggingface,1
+I am trying to see the current status of the rebate,Cold,huggingface,2
+I want to know more about opening a {{Account Type}} account,Hot,huggingface,0
+i do not know what i have to do to notify of a sign-up error,Warm,huggingface,1
+Their decision is final and not open for discussion. Archive immediately,Cold,synthetic,2
+"I ain't registered, can I create a standard account?",Hot,huggingface,0
+can you help me informing of a registration error?,Warm,huggingface,1
+can you help me to delete my premium account?,Cold,huggingface,2
+how can I unsubscribe to the newsletter?,Warm,huggingface,1
+how can I speak to a live agent?,Warm,huggingface,1
+opening {{Account Type}} account,Hot,huggingface,0
+can you help me see the withdrawal penalties?,Cold,huggingface,2
+how do i inform of problems with an signup,Warm,huggingface,1
+No other vendors on their shortlist now. We won the evaluation and they want to start immediately.,Hot,synthetic,0
+assistance to see what payment methods are accepted,Hot,huggingface,0
+Never going to be a customer -- wrong industry fit discovered after 3 months of conversations.,Cold,synthetic,2
+I'm trying to report a probloem with a fucking signup,Warm,huggingface,1
+Visited the case study page three times this week. Warm signal -- worth a personalized outreach.,Warm,synthetic,1
+can you help me to cancel the {{Account Type}} account?,Cold,huggingface,2
+i cant pay help informing of issues with payment,Hot,huggingface,0
+she's the right person but needs to convince her boss. helping her build the internal case.,Warm,synthetic,1
+how can I report a sign-up error?,Warm,huggingface,1
+Asked specifically about post-implementation support and SLA guarantees. Ready to buy.,Hot,synthetic,0
+email bounced. linkedin blocked. phone disconnected. its over.,Cold,synthetic,2
+help to report a problem with a registration,Warm,huggingface,1
+what do I need to do to contact customer assistance?,Warm,huggingface,1
+Never fully disengaged -- just slow. They opened every email we sent for 3 months.,Warm,synthetic,1
+can you help me ask for a rebate of money?,Cold,huggingface,2
+I am trying to unsubscribe to your damn company newsletter,Warm,huggingface,1
+help seeing the accepted payment options,Hot,huggingface,0
+I am trying to get rebates of money,Cold,huggingface,2
+i try to get a rebate of money,Cold,huggingface,2
+can you help me listing your available payment methods?,Hot,huggingface,0
+can you help me report troubles with payment?,Hot,huggingface,0
+where to unsubscribe to your bloody newsletter?,Warm,huggingface,1
+key stakeholder quit. nobody else cares. move on.,Cold,synthetic,2
+Following up: we've completed our internal review and are prepared to move forward. Please send the SOW.,Hot,synthetic,0
+"I want to sign up to the newsletter, can I get some help?",Warm,huggingface,1
+need assistance to cancel the {{Account Type}} account,Cold,huggingface,2
+"They basically said we're in, just needs the paperwork sorted.",Hot,synthetic,0
+open another {{Account Type}} account for mum,Hot,huggingface,0
+I need assistance to report a problem with a sign-up,Warm,huggingface,1
+need pricing details asap,Hot,synthetic,0
+can you help me talk with customer support?,Warm,huggingface,1
+i dont know what i have to do to report issues with payments,Hot,huggingface,0
+help demanding rebates of money,Cold,huggingface,2
+can you help me demand refunds ?,Cold,huggingface,2
+can i check i which situations can i ask to be reimbursed,Cold,huggingface,2
+still evaluating vendors,Warm,synthetic,1
+how can i see my compensation current status,Cold,huggingface,2
+liked demo need internal approval,Warm,synthetic,1
+I do not know how to open a damn freemium account,Hot,huggingface,0
+can you help me to contact a person?,Warm,huggingface,1
+"after the pilot, their ops manager said 'i can't go back to the old way.' they want full rollout yesterday.",Hot,synthetic,0
+Their champion left the company but the new VP took over the initiative and is even more motivated.,Hot,synthetic,0
+I am trying to see the allowed payment methods,Hot,huggingface,0
+We already have a vendor for this and are under contract for the next two years. Not looking.,Cold,synthetic,2
+is it possible tl unsubscribe from ur corporate newsletter,Warm,huggingface,1
+They unsubscribed from our newsletter and marked our last email as spam. Remove from all sequences.,Cold,synthetic,2
+how can i talk with an opertaor,Warm,huggingface,1
+i need help with opening my platinum account,Hot,huggingface,0
+how can I contact cusomer support?,Warm,huggingface,1
+Referred us to their colleagues as a 'great product' -- but declined to buy themselves,Cold,synthetic,2
+"CEO approved this personally. Their COO is our main contact now, coordinating implementation.",Hot,synthetic,0
+how can I file a consumer complaint?,Cold,huggingface,2
+can you help me seeing the termination fees?,Cold,huggingface,2
+we're drowning in inefficiencies and your solution is the life raft we've been waiting for -- when can we start?,Hot,synthetic,0
+how could I inform of errors with a signup?,Warm,huggingface,1
+"wrong contact - company went thru reorg, team dissolved. no path fwd",Cold,synthetic,2
+i have got to see the accepted payment options,Hot,huggingface,0
+how can I report payment errors?,Hot,huggingface,0
+Told us we're their top choice but still needs to complete the RFP process. Weeks away from a decision.,Warm,synthetic,1
+how can i inform of an error with payment,Hot,huggingface,0
+They're window-shopping right now. Engaged but not in buy mode,Warm,synthetic,1
+I am trying to receive a compensation,Cold,huggingface,2
+Just browsing options for now -- their words. Low urgency but genuine curiosity.,Warm,synthetic,1
+can you tell me at what time I can call customer assistance?,Warm,huggingface,1
+I am trying to inform of an issue with registrations,Warm,huggingface,1
+how can I unsubscribe from your newsletter?,Warm,huggingface,1
+can you help me to sign up to the company newsletter?,Warm,huggingface,1
+can uhelp me notifying of a registration issue,Warm,huggingface,1
+can you tell me more about unsubscribing to your newsletter?,Warm,huggingface,1
+I am trying to inform of issues with payment,Hot,huggingface,0
+how can I create a {{Account Category}} account?,Hot,huggingface,0
+i dont know how to open a gold account,Hot,huggingface,0
+can you help me reporting an error with online payment?,Hot,huggingface,0
+can you help me request an restitution of my money?,Cold,huggingface,2
+Said they'd definitely circle back in Q2 -- Q2 has come and gone with zero contact,Cold,synthetic,2
+"After the final demo, they said the product doesn't solve their core problem. Politely declined.",Cold,synthetic,2
+in what situations can I ask to be reimbursed?,Cold,huggingface,2
+how can I receive your newsletter?,Warm,huggingface,1
+I am trying to check in which cases can I request a refund,Cold,huggingface,2
+how can I check the available payment modalities?,Hot,huggingface,0
+I want to know more about creating a standard account,Hot,huggingface,0
+help me see what payment methods are available,Hot,huggingface,0
+I am trying to notify of registration issues,Warm,huggingface,1
+NOT interested. said so 3x. remove from all lists. closed-lost.,Cold,synthetic,2
+I am trying to cancel my subscription to your newsletter,Warm,huggingface,1
+can you help me to unsubscribe from the newsletter?,Warm,huggingface,1
+can you help me notify of an error with payments?,Hot,huggingface,0
+how do I see your money back policy?,Cold,huggingface,2
+what do i need to do to delete the {{Account Type}} account,Cold,huggingface,2
+how do I create a {{Account Type}} account for my daughter?,Hot,huggingface,0
+I want to know more about opening {{Account Type}} accounts,Hot,huggingface,0
+wanna see at what time i can reach customer support,Warm,huggingface,1
+Trial account created but only limited activity. Checking in once a week to keep them warm.,Warm,synthetic,1
+can you help me to speak with somebody?,Warm,huggingface,1
+can you help me create a {{Account Type}} account for my fiance?,Hot,huggingface,0
+how can i ese the cancellation penalties,Cold,huggingface,2
+i do not knwo how to see the payment methods,Hot,huggingface,0
+hey can u send pricing asap boss is asking,Hot,synthetic,0
+want help cancelling the corporate newsletter subscription,Warm,huggingface,1
+is it possible to crewate a gold account,Hot,huggingface,0
+what do I need to do to open a platinum account for my dad?,Hot,huggingface,0
+help me seeing the early termination penalties,Cold,huggingface,2
+can you help me notify of problems with online payments?,Hot,huggingface,0
+how to create a {{Account Category}} account,Hot,huggingface,0
+can you help me to see the early termination charges?,Cold,huggingface,2
+i want assistance talking with an assistant,Warm,huggingface,1
+Procurement portal submission done on their end -- waiting for our countersignature only.,Hot,synthetic,0
+Decision made internally -- we won. Waiting only for IT security clearance before countersigning,Hot,synthetic,0
+I am trying to find information about a gold account removal,Cold,huggingface,2
+how do i talk with customer support,Warm,huggingface,1
+how can I obtain goddamn rebates of my money?,Cold,huggingface,2
+how can I chat with a live agent?,Warm,huggingface,1
+how do I talk to a human agent?,Warm,huggingface,1
+I don't know what I need to do to cancel a platinum account,Cold,huggingface,2
+how do I report an issue with online payment?,Hot,huggingface,0
+can you help me inform of fucking troubles with payments?,Hot,huggingface,0
+"Very interested, great calls -- but after 6 months of ghosting, this is clearly going nowhere.",Cold,synthetic,2
+i need help to unsubscribe from ur company newsletter,Warm,huggingface,1
+I am tryign to inform of an error with a registration,Warm,huggingface,1
+can you help me inform of an problem with sign-up?,Warm,huggingface,1
+help to see what hours I can reach customer service,Warm,huggingface,1
+They were never real buyers -- just doing market research on our dime.,Cold,synthetic,2
+"Q: when can we start? A: now. seriously, send the impl timeline pls",Hot,synthetic,0
+we are not interested in this product under any circumstances. please cease all contact.,Cold,synthetic,2
+I want help to talk to a live agent,Warm,huggingface,1
+reimburse {{Refund Amount}} dollar,Cold,huggingface,2
+how can I check the early termination penalties?,Cold,huggingface,2
+She described it as 'on our radar' -- meaning we're visible but not a priority yet.,Warm,synthetic,1
+can you help me report an issue with online payments?,Hot,huggingface,0
+how can I cancel the {{Account Category}} account?,Cold,huggingface,2
+can you help me to speak to customer assistance?,Warm,huggingface,1
+Can't share pricing internally yet -- waiting for their fiscal year to reset in two months.,Warm,synthetic,1
+good discovery call - needs internal buy-in first. ops team not aligned yet. slow burn,Warm,synthetic,1
+we've aligned internally and want to confirm the enterprise plan. please initiate the onboarding process.,Hot,synthetic,0
+Has been on our mailing list for 6 months. Recent uptick in engagement -- webinar + two doc downloads.,Warm,synthetic,1
+Good call -- they definitely see the value. Said 'let's talk again in two months' -- keep them warm.,Warm,synthetic,1
+how do I cancel my corporate newsletter subscription?,Warm,huggingface,1
+information about creating {{Account Category}} accounts,Hot,huggingface,0
+can you help me seeing your accepted payment options?,Hot,huggingface,0
+how do I make a consumer complaint against your businrss?,Cold,huggingface,2
+can you help me receive refunds of money?,Cold,huggingface,2
+can you help me to notify of issues with online payment?,Hot,huggingface,0
+open a {{Account Category}} account for my dad,Hot,huggingface,0
+I do not know how I can close a standard account,Cold,huggingface,2
+dm on linkedin - general question abt pricing. too early for sales pitch. educate first,Warm,synthetic,1
+help me to create a {{Account Category}} account,Hot,huggingface,0
+help me see in what cases can I reuest my money back,Cold,huggingface,2
+The door isn't just closed -- they've boarded it up and moved to a different address.,Cold,synthetic,2
+"I wouls like to see your money back guarantee, help me",Cold,huggingface,2
+can you help me to speak to customer support?,Warm,huggingface,1
+"Reference check completed. They called two of our existing clients last week, both gave glowing reviews.",Hot,synthetic,0
+This account is simmering. They're interested but their internal process is slow,Warm,synthetic,1
+want help notifying of a registration issue,Warm,huggingface,1
+how can I see the early exit penalies?,Cold,huggingface,2
+can you help me asking for refunds?,Cold,huggingface,2
+need assistance with opening a {{Account Type}} account,Hot,huggingface,0
+find information about opening a {{Account Type}} account,Hot,huggingface,0
+want help checking the early exit fee,Cold,huggingface,2
+Their team really liked the product but got overruled by a cost-cutting mandate from above,Cold,synthetic,2
+can you help me to open a standard account?,Hot,huggingface,0
+I am trying to lodge a customer complaint,Cold,huggingface,2
+need assistance seeing your accepted payment modalities,Hot,huggingface,0
+They went cold after the pricing call. Classic sticker shock -- not going anywhere.,Cold,synthetic,2
+I want to know if there is anything wrong with my refund,Cold,huggingface,2
+No urgency on their end but they're clearly exploring this space seriously.,Warm,synthetic,1
+can you help me notifying of issues with a registration?,Warm,huggingface,1
+I am trying to cancel my corporate newsletter subscription,Warm,huggingface,1
+can you help me see the damn withdrawal charge?,Cold,huggingface,2
+another {{Account Type}} account for father,Hot,huggingface,0
+discussing with team next week,Warm,synthetic,1
+i do not kow what to do to check the allowed payment methods,Hot,huggingface,0
+can you help me subscribing to the corporate newsletter?,Warm,huggingface,1
+how can I get information about opening a standard account?,Hot,huggingface,0
+how can I subscribe to the company newsletter?,Warm,huggingface,1
+can you help me seeing your available payment options?,Hot,huggingface,0
+Their CEO won't approve further delays. Legal was told to prioritize our contract review.,Hot,synthetic,0
+this isn't a priority for us and won't be for the foreseeable future. please don't follow up.,Cold,synthetic,2
+can you help me to chat with an operator?,Warm,huggingface,1
+They're not shopping aggressively but responded positively to every touchpoint we've had.,Warm,synthetic,1
+can you help me demand a reimbursement of money?,Cold,huggingface,2
+can you help me to inform of an error with online payment?,Hot,huggingface,0
+can you help me chat with a human agent?,Warm,huggingface,1
+can you help me to speak with a bloody operator?,Warm,huggingface,1
+how can I call customer service?,Warm,huggingface,1
+"I have got to report issues with signup, help me",Warm,huggingface,1
+can you show me what payment options are available ?,Hot,huggingface,0
+I don't know how to file a consumer complaint,Cold,huggingface,2
+how do i create a freemium account,Hot,huggingface,0
+Quick note -- legal cleared everything. We can sign Thursday. Does that work?,Hot,synthetic,0
+how can I create a standard account for my fiance?,Hot,huggingface,0
+can you help me to list the damn allowed payment methods?,Hot,huggingface,0
+Referred by an existing client but still gathering requirements internally. Nurture carefully.,Warm,synthetic,1
+not going to move forward even after the positive pilot results. leadership changed direction.,Cold,synthetic,2
+how do I speak to customer service?,Warm,huggingface,1
+can you help me check in which cases can I ask for a refund?,Cold,huggingface,2
+how do I report errors with online payments ?,Hot,huggingface,0
+Very enthusiastic on the call but told me they won't make a decision without a full 60-day trial first.,Warm,synthetic,1
+I am trying to find information about a {{Account Type}} account removal,Cold,huggingface,2
+Legal is currently reviewing our MSA; procurement says PO can be issued within 48 hours of sign-off.,Hot,synthetic,0
+Iam looking for information about opening a {{Account Category}} account,Hot,huggingface,0
+"Classic evaluator -- detail-oriented, want to see everything, not ready to commit. Nurture.",Warm,synthetic,1
+"I need to know if there are any news on my rebate, help me",Cold,huggingface,2
+I am trying to inform of errors with registrations,Warm,huggingface,1
+how can I cancel my subscription to your neswletter?,Warm,huggingface,1
+how can i see the status of my subscription to ur newsletter,Warm,huggingface,1
+Not the easiest sale -- lots of internal resistance -- but the CTO overrode the committee and signed off personally.,Hot,synthetic,0
+how do I see at what time customer assistance available is?,Warm,huggingface,1
+can you help me creating a pro account?,Hot,huggingface,0
+I am trying to unsubscribe from your company newsletter,Warm,huggingface,1
+Urgently requesting a demo -- but they do this with every vendor in their annual review. Not a hot signal.,Warm,synthetic,1
+how can I report errors with online payments?,Hot,huggingface,0
+I am trying to check your money back guarantee,Cold,huggingface,2
+how do I create a platinum account?,Hot,huggingface,0
+how can i know if there is anything wrong with my refund,Cold,huggingface,2
+"Prospect is in early-stage evaluation, comparing at least four vendors. No timeline shared yet",Warm,synthetic,1
+Can we get the contract finalized this week? We have a hard deadline from our board.,Hot,synthetic,0
+budget approved proceed fast,Hot,synthetic,0
+how can I get in touch with customer support?,Warm,huggingface,1
+can you help me to report a trouble with payments?,Hot,huggingface,0
+can you help me obtain a compensation of my money?,Cold,huggingface,2
+can you help me to report an issue with signup?,Warm,huggingface,1
+"This account is cooked. Ghost for 3 months, then replied to say they went with someone else.",Cold,synthetic,2
+I want assistance to notify of problems with an sign-up,Warm,huggingface,1
+We poured effort into this account and hit a brick wall every single time.,Cold,synthetic,2
+Their entire leadership team is on the same page now. The door isn't just open -- they're holding it for us.,Hot,synthetic,0
+"sent the proposal monday, they responded tuesday with minor changes. this is moving.",Hot,synthetic,0
+Engaged positively on LinkedIn -- commented on two posts this week. Moving in the right direction.,Warm,synthetic,1
+can you help me seeing your refund policy?,Cold,huggingface,2
+how do I speak to an assistant?,Warm,huggingface,1
+want help to report an issue with online payments,Hot,huggingface,0
+Their IT team has already started prepping the integration environment. They're committed.,Hot,synthetic,0
+want assistance speaking with a live agent,Warm,huggingface,1
+Our team has decided to deprioritize this initiative entirely. We won't be moving forward.,Cold,synthetic,2
+I don't know how I could file a claim,Cold,huggingface,2
+how can I make a customer complaint against your company?,Cold,huggingface,2
+I cannot see the status of my compensation,Cold,huggingface,2
+selected another vendor,Cold,synthetic,2
+I have to see in what cases can I ask for a reimbursement,Cold,huggingface,2
+how can i see the accepted payment modalities,Hot,huggingface,0
+Stakeholder confirmed via phone they've allocated their entire tech budget for the year already.,Cold,synthetic,2
+how can I notify of problems with payment?,Hot,huggingface,0
+I'm waiting for a reimbursement of {{Refund Amount}} dollars,Cold,huggingface,2
+assistance seeingur payment methods,Hot,huggingface,0
+I have a problem with creating a {{Account Category}} account,Hot,huggingface,0
+where do i report a registration problem,Warm,huggingface,1
+can you help me to create a freemium account?,Hot,huggingface,0
+how do i demand refunds of my money,Cold,huggingface,2
+"attended demo, liked it, comparing w/ 2 others. no timeline given",Warm,synthetic,1
+need help seeing the fucking withdrawal charge,Cold,huggingface,2
+"they kinda interested but no decision anytime soon. add to nurture seq, revisit q3",Warm,synthetic,1
+how can i contact a live agent,Warm,huggingface,1
+how can I check if there is anything new on the restitution?,Cold,huggingface,2
+Didn't respond to 4 emails then sent a calendar invite for a contract review. We're back on.,Hot,synthetic,0
+open freemium account for wife,Hot,huggingface,0
+can you help me to see the compensation current status?,Cold,huggingface,2
+can you help me inform of a fucking signup issue?,Warm,huggingface,1
+I don't know how to contact a person,Warm,huggingface,1
+I need help to notify of a trouble with payment,Hot,huggingface,0
+how do i inform of troubles with online payment,Hot,huggingface,0
+how do I see if there are any updates on my compensation?,Cold,huggingface,2
+how do I talk to an assistant?,Warm,huggingface,1
+"I have to unsubscribe to the company newsletter, I need help",Warm,huggingface,1
+need help to make a complaint against ur company,Cold,huggingface,2
+the experience with ur brand was bad file a claim,Cold,huggingface,2
+We don't have budget for this and the situation won't change this fiscal year. Thank you.,Cold,synthetic,2
+how do i notify of a problem with online payments,Hot,huggingface,0
+can i make a customer reclamation against ur company,Cold,huggingface,2
+No interest whatsoever. They were just attending our webinar for educational content.,Cold,synthetic,2
+I do not know what to do to sign up to the newsletter,Warm,huggingface,1
+executive sponsor is enthusiastic -- but has no authority. the actual decision-maker declined.,Cold,synthetic,2
+can you help me to see the restitution status?,Cold,huggingface,2
+is it possible to see the early exit penalties,Cold,huggingface,2
+Won't accept delays -- their CTO said implementation must begin in the next two weeks.,Hot,synthetic,0
+Their CTO killed it. Said they're building their own internal tool and won't be buying.,Cold,synthetic,2
+how do I see the allowed payment methods?,Hot,huggingface,0
+i have got to obtain a reimbursement of my money,Cold,huggingface,2
+They strung us along through four demos just to get competitive pricing for their existing vendor.,Cold,synthetic,2
+I need to make a claim against your company,Cold,huggingface,2
+I need assistance listing your vaailable payment modalities,Hot,huggingface,0
+CXO aprvd. snd contract asap. they hv 6wk implementation window,Hot,synthetic,0
+this account is radioactive now. multiple aggressive outreach attempts have burned our brand with them.,Cold,synthetic,2
+Budget hasn't been officially allocated but the CFO told our AE 'consider it done' in a sidebar.,Hot,synthetic,0
+I want to know about receiving your corporate neswletter,Warm,huggingface,1
+can uhelp me speak with an operator,Warm,huggingface,1
+how do I check your available payment options?,Hot,huggingface,0
+We've made our decision. Moving forward with your platform. Implementation start: March 1.,Hot,synthetic,0
+how do I see your payment modalities?,Hot,huggingface,0
+Mentioned they're building a business case to present to leadership. Active but not close.,Warm,synthetic,1
+"Tried everything. Three calls, two demos, a custom deck -- they just don't see the value.",Cold,synthetic,2
+help me reporting an issue wigh online payment,Hot,huggingface,0
+how to see the termination penalty,Cold,huggingface,2
+can uhelp me requesting reimbursements of my money,Cold,huggingface,2
+where to notify of problems with online payments?,Hot,huggingface,0
+I don't know what I have to do to lodge a customer claim,Cold,huggingface,2
+I have a question about opening {{Account Category}} accounts,Hot,huggingface,0
+can you help me inform of a problem with signup?,Warm,huggingface,1
+"Implementation timeline requested -- they want to go live before end of fiscal year, which is 6 weeks away.",Hot,synthetic,0
+I don't know how to speak with a human agent,Warm,huggingface,1
+can you help me filing a complaiont?,Cold,huggingface,2
+i try to check the termination epnalties,Cold,huggingface,2
+"I never use my {{Account Category}} account, could I cancel it?",Cold,huggingface,2
+"3rd demo, still no decision. actually just using our calls for competitor intel. drop them",Cold,synthetic,2
+how can I create a gold account for my fiance?,Hot,huggingface,0
+how can I speak to customer assistance?,Warm,huggingface,1
+"vp likes us but budget not avail til fy26. keep contact warm, monthly touchpoints",Warm,synthetic,1
+how can I open a platinum account?,Hot,huggingface,0
+I don't know how I can check the withdrawal fees,Cold,huggingface,2
+can you help me to ask for a reimbursement of my money?,Cold,huggingface,2
+can you help me checking the cancellation charge?,Cold,huggingface,2
+how can I receive the newsletter?,Warm,huggingface,1
+how can i see what payment payment modalities are available,Hot,huggingface,0
+how can I check your payment methods?,Hot,huggingface,0
+reimburse {{Refund Amount}} dollars,Cold,huggingface,2
+Replied to our last email saying 'we've decided not to pursue this and please stop emailing us.',Cold,synthetic,2
+"ghost for 4mo, finally replied: 'went w/ competitor, stop emailing'",Cold,synthetic,2
+how can I speak to a human agent?,Warm,huggingface,1
+can you help me to talk with an agent?,Warm,huggingface,1
+i want assistance reporfting an error with signup,Warm,huggingface,1
+the cro jumped on the call himself. that's a buying signal if i've ever seen one.,Hot,synthetic,0
+Not willing to let another quarter pass -- they're pushing their own procurement team to expedite.,Hot,synthetic,0
+how can I checkthe cancellation charges?,Cold,huggingface,2
+I am trying to list the allowed payment methods,Hot,huggingface,0
+can you help me to obtain compensations of my money?,Cold,huggingface,2
+can ya help me to create a {{Account Type}} account for my fiance,Hot,huggingface,0
+how can I get information about my newsletter subscription?,Warm,huggingface,1
+I want help reporting sign-up issues,Warm,huggingface,1
+"Not ready to commit just yet, but genuinely interested in what we're building.",Warm,synthetic,1
+wanna notify of a trouble with online payments,Hot,huggingface,0
+Customer success manager cc'd on last email -- they've started internal onboarding prep already.,Hot,synthetic,0
+Spoke with their procurement lead -- they've selected us and want contracts by Thursday.,Hot,synthetic,0
+how do Ispeak with customer service?,Warm,huggingface,1
+The sales director described it as a 'no-brainer' and said the team has been waiting for this kind of tool.,Hot,synthetic,0
+how can i get information about receiving ur newsletter,Warm,huggingface,1
+i dont know what i need to do to cancel a platinum account,Cold,huggingface,2
+can I list your allowed payment modalities?,Hot,huggingface,0
+Replied to our nurture sequence for the first time. Short response but expressed interest in a call.,Warm,synthetic,1
+what do I need to do to lodge a claim against your company?,Cold,huggingface,2
+We've been chasing a ghost for three months. Time to cut our losses.,Cold,synthetic,2
+can you help me checking the bloody cancellation penalty?,Cold,huggingface,2
+I'd like informatoin about opening platinum accounts,Hot,huggingface,0
+budget freeze thru EOY. told us explicitly dont reach out til jan 2027,Cold,synthetic,2
+can you help me see my reimbursement status?,Cold,huggingface,2
+can you help me filing a claim against your organization?,Cold,huggingface,2
+"I have to see my restitution status, how to do it?",Cold,huggingface,2
+how do i see if there are any news on the restitution,Cold,huggingface,2
+where can I report a problem with a signup?,Warm,huggingface,1
+how do i file a consumer claim against ur business,Cold,huggingface,2
+can I contact customer assistance?,Warm,huggingface,1
+how can i see ur allowed payment methods,Hot,huggingface,0
+can ya help me cancelling my {{Account Type}} account,Cold,huggingface,2
+i do not know how to unsubscribe to ur corporate newsletter,Warm,huggingface,1
+"Budget is approved -- but it's allocated for a different project, not ours. Still in early conversations.",Warm,synthetic,1
+i have got to inform of issues with payments,Hot,huggingface,0
+3 missed calls from their ops lead. wants to finalize before EOQ no matter what,Hot,synthetic,0
+can you help me filing an reclamation against your company?,Cold,huggingface,2
+how can i find information about {{Account Type}} account removasl,Cold,huggingface,2
+want help to report issues with signup,Warm,huggingface,1
+could you help me create a standard account for my daughter?,Hot,huggingface,0
+can you help me check the termination charge?,Cold,huggingface,2
+Wants to see an integration demo specifically -- real interest but one key blocker to resolve first.,Warm,synthetic,1
+"Warm but slow-moving account. Check in monthly, don't push too hard or we'll lose them.",Warm,synthetic,1
+can you help me to lodge a claim against your business?,Cold,huggingface,2
+how do i sign up to thhe corporate newsletter,Warm,huggingface,1
+show me the allowed paymeny modalities,Hot,huggingface,0
+I have a question about the termination of a {{Account Type}} account,Cold,huggingface,2
+ceo blocked our domain after 6 cold emails from diff reps. burned.,Cold,synthetic,2
+how do i check at what time i can call customer service,Warm,huggingface,1
+i have to sign up to the corporae newsletter help me,Warm,huggingface,1
+how can I inform of an error with a signup?,Warm,huggingface,1
+can you help me to see your allowed payment modalities?,Hot,huggingface,0
+Can't justify the cost -- they said this clearly and asked us to stop following up.,Cold,synthetic,2
+I am trying to check my rebate status,Cold,huggingface,2
+help me canceling the corporate newsletter subscription,Warm,huggingface,1
+help to cancel the subscription to your newsletter,Warm,huggingface,1
+I have to notify of registration errors,Warm,huggingface,1
+can you help me closing a standard account?,Cold,huggingface,2
+how do I ddmand refunds of my money?,Cold,huggingface,2
+"Despite two product demos and a custom proposal, they chose to build in-house instead.",Cold,synthetic,2
+can you help me make a claim against your company?,Cold,huggingface,2
+how can I check the early exit fees?,Cold,huggingface,2
+how do i request a compensation of my money,Cold,huggingface,2
+question about my {{Account Type}} account cancellation,Cold,huggingface,2
+can you help me see the current status of the rebate?,Cold,huggingface,2
+how do I check the termination charge?,Cold,huggingface,2
+I don't know what I have to do to see the restitution status,Cold,huggingface,2
+"I have not signed up yet, how to create a {{Account Type}} account?",Hot,huggingface,0
+can you help me reporting problems with online payment?,Hot,huggingface,0
+boss asking for quote today,Hot,synthetic,0
+assistance to speak with a live agent,Warm,huggingface,1
+Said 'we're not in a rush' but also asked for a contract to review over the weekend. Classic buyer behavior.,Hot,synthetic,0
+We attended your webinar last week and found it valuable. We'd be open to a short discovery call.,Warm,synthetic,1
+how can i inform of problems with online payment,Hot,huggingface,0
+how do I demand a bloody compensation of my money?,Cold,huggingface,2
+how do I know if there is anything new on my compensation?,Cold,huggingface,2
+We've officially run out of road with this account. Time to close the file,Cold,synthetic,2
+The whole team they were working with got laid off. No one left to champion this,Cold,synthetic,2
+can you show me what damn payment methods are allowed?,Hot,huggingface,0
+Nice company but wrong fit. They operate at a scale we don't serve. Close this out,Cold,synthetic,2
+can you help me to see your accepted payment modalities ?,Hot,huggingface,0
+Loved the demo but their board decided to cut the entire initiative from the roadmap.,Cold,synthetic,2
+"asked for our contract template -- just to understand terms, not ready to negotiate yet.",Warm,synthetic,1
+can you show me in which situations can I ask for refunds?,Cold,huggingface,2
+I expect a restitution of {{Refund Amount}} dollars,Cold,huggingface,2
+"Mentioned they have a vendor already, but are actively switching and have asked us to begin migration planning.",Hot,synthetic,0
+can you help me speaking with a live agent?,Warm,huggingface,1
+I want to know more about my newsletter subscription,Warm,huggingface,1
+how to cancel a {{Account Type}} account?,Cold,huggingface,2
+can you help me report a payment issue?,Hot,huggingface,0
+I am trying to report a payment error,Hot,huggingface,0
+how do I check if there are any updates on the restitution?,Cold,huggingface,2
+I am trying to see the current status of the compensation,Cold,huggingface,2
+I am trying to check how long reimbursements usually tke,Cold,huggingface,2
+"CRM entry: 8 touchpoints, 0 responses. Trial expired unused. Move to cold archive.",Cold,synthetic,2
+I need to know if there is anything new on the restitution,Cold,huggingface,2
+see your available payment options,Hot,huggingface,0
+they said 'we're all set' = they bought elsewhere. mark closed-lost,Cold,synthetic,2
+downloaded the roi whitepaper and clicked through to the pricing page. signs of genuine curiosity.,Warm,synthetic,1
+I am trying to sign up to the newsletter,Warm,huggingface,1
+can you help me opening a pro account?,Hot,huggingface,0
+"Account escalated: executive sponsor confirmed this is the #1 initiative for Q3, needs kickoff before month-end.",Hot,synthetic,0
+can you help me to check what payment options you accept?,Hot,huggingface,0
+how can I notify of problems with online payments?,Hot,huggingface,0
+"Sales director said 'let's not waste time, we want this done before the holidays.'",Hot,synthetic,0
+can I see the termination charges?,Cold,huggingface,2
+"Guy told me flat out -- 'we're going with you, just get the contract over.'",Hot,synthetic,0
+I want help to see aat what time I can call customer support,Warm,huggingface,1
+can you help me talking to customer service ?,Warm,huggingface,1
+I need help to talk to custmoer service,Warm,huggingface,1
+Doesn't have budget this quarter but put us on the shortlist for next cycle.,Warm,synthetic,1
+can you help me receiving refunds?,Cold,huggingface,2
+can uhelp me to chat with somebody,Warm,huggingface,1
+They signed a three-year contract with our main competitor last month. No re-engagement path.,Cold,synthetic,2
+I want to inform of a registration issue,Warm,huggingface,1
+how do i notify of errors with payment,Hot,huggingface,0
+Not planning to wait any longer -- they want the contract signed before the weekend.,Hot,synthetic,0
+"Not the right time according to their roadmap, but they want to stay in touch.",Warm,synthetic,1
+They were interested a year ago. Now they've moved on and don't remember who we are.,Cold,synthetic,2
+I want help seeing your available payment options,Hot,huggingface,0
+Last interaction was 120 days ago. All subsequent emails bounced. No alternate contact found.,Cold,synthetic,2
+"Had a productive discovery call. They're exploring options, no urgency yet, revisit in 45 days.",Warm,synthetic,1
+They've already drafted the integration architecture with our API. Serious commitment signal,Hot,synthetic,0
+I'm trying to open a platinum account for my fiance,Hot,huggingface,0
+can you help me see whzt payment options are allowed?,Hot,huggingface,0
+"They initially said they weren't interested, but after the pilot demo completely changed their position. Ready to sign.",Hot,synthetic,0
+"Hi, I came across your platform and had a few questions about enterprise pricing. Could we set up a call?",Warm,synthetic,1
+can I see at what time I can call customer service ?,Warm,huggingface,1
+how can I find information about openinga pro account?,Hot,huggingface,0
+I need assistance with opening a {{Account Type}} acount,Hot,huggingface,0
+tell me what payment options are available,Hot,huggingface,0
+i dont know what i have to do to contact a person,Warm,huggingface,1
+i dont know how i can see the termination penalties,Cold,huggingface,2
+I need help to receive an reimbursement of money,Cold,huggingface,2
+"requested pricing -- for a planning conversation with their board, not for a purchase decision.",Warm,synthetic,1
+Burned this bridge trying to follow up too aggressively. They complained to our manager.,Cold,synthetic,2
+won verbal commitment. PO #TF-2291 being raised. dont let this slip!!,Hot,synthetic,0
+"Thank you for reaching out, but we've decided not to pursue any new tools at this time.",Cold,synthetic,2
+I am having an online registration error,Warm,huggingface,1
+I do not know what to do to talk with someone,Warm,huggingface,1
+i need information about the termination of my {{Account Type}} account,Cold,huggingface,2
+They went quiet for 3 weeks then called today wanting to accelerate the timeline. Moving to close.,Hot,synthetic,0
+how can i list the allowed paymet methods,Hot,huggingface,0
+want help informing of an issue with online payments,Hot,huggingface,0
+can you show me the termination fees?,Cold,huggingface,2
+This lead has gone completely dark. Every channel we've tried has hit a wall,Cold,synthetic,2
+Thanks for the demo -- it looks really interesting. We're exploring a few options right now and will be in touch.,Warm,synthetic,1
+I do not know what I have to do to get a refund,Cold,huggingface,2
+i want help to contact customer assistance,Warm,huggingface,1
+can you help me to open a freemium account?,Hot,huggingface,0
+how do I check the termination penalties ?,Cold,huggingface,2
+how can I subscribe to the corporate newsletter?,Warm,huggingface,1
+I want to know more about creating a {{Account Category}} cacount,Hot,huggingface,0
+can you help me obtaining refunds of my money?,Cold,huggingface,2
+I am trying to see in what cases can I request refunds,Cold,huggingface,2
+Our CTO signed off on the technical architecture. We're ready to commit. Please send final pricing.,Hot,synthetic,0
+can you tell me your allowed payment modalities?,Hot,huggingface,0
+need assistance seeing ur accepted payment methods,Hot,huggingface,0
+He compared us favorably to competitors but said 'the timing just isn't right yet.',Warm,synthetic,1
+I need help to chat with a live avent,Warm,huggingface,1
+how can I sign up to your corporate nnewsletter?,Warm,huggingface,1
+assistance notifying of issues with a registration,Warm,huggingface,1
+I need to inform of a trouble with online payment,Hot,huggingface,0
+i canno notify of errors with a sign-up,Warm,huggingface,1
+how can i file a complaint against ur organization,Cold,huggingface,2
+I have to contact an assistant,Warm,huggingface,1
+"all three evaluation criteria met. they're in final negotiation mode, asked for our best pricing.",Hot,synthetic,0
+need help with creating my {{Account Category}} account,Hot,huggingface,0
+i dont know what to do to speak to customer support,Warm,huggingface,1
+I am trying to file a rreclamation against your business,Cold,huggingface,2
+how do i check what hours i can call customer assistance,Warm,huggingface,1
+replied finally! wants more info on integrations. not ready to buy but def interested,Warm,synthetic,1
+Just got board sign-off. We're a go. Let's schedule the kickoff call for next week,Hot,synthetic,0
+can you help me receive goddamn compensations of money?,Cold,huggingface,2
+help filing a consumer complaint against ur business,Cold,huggingface,2
+Asked thoughtful questions about our security certifications -- they're doing real due diligence.,Warm,synthetic,1
+can you help me to check the early termination charge ?,Cold,huggingface,2
+how do i report problems with a registration,Warm,huggingface,1
+can you help me to solve errors with payment?,Hot,huggingface,0
+They said 'send us the contract' -- but it's been sitting in their inbox unsigned for 8 weeks now,Cold,synthetic,2
+how can i file a consumre claim against ur organization,Cold,huggingface,2
+Like a ship that's already sailed -- they made their decision months ago without telling us.,Cold,synthetic,2
+can you help me to notify of a problem with online payment?,Hot,huggingface,0
+can you show me the withdrawal charge?,Cold,huggingface,2
+"We're currently in the research phase and are not ready to make any decisions yet, but I'd love to learn more.",Warm,synthetic,1
+I need to see the early exit fees,Cold,huggingface,2
+Just wanted to follow up on my earlier inquiry. We're still gathering information before making any decisions.,Warm,synthetic,1
+They asked me how long implementation takes. Not 'if' -- 'how long.' That's a close.,Hot,synthetic,0
+"I have to call customer service, could you help me?",Warm,huggingface,1
+how can I track the compensation?,Cold,huggingface,2
+how can i lodge a cuxtomer complaint against ur organization,Cold,huggingface,2
+how can I create a {{Account Type}} account for my fiance?,Hot,huggingface,0
+Their champion told me under the table that budget was cleared last week. Just paperwork left.,Hot,synthetic,0
+Expressed interest in a pilot but said Q1 budget is locked. May unlock discretionary funds in Q2.,Warm,synthetic,1
+where do i receive ur company newsletter,Warm,huggingface,1
+i d not know how i can check the payment methods,Hot,huggingface,0
+what do I need to do to call customer assistance?,Warm,huggingface,1
+how do I list the allowed payment options?,Hot,huggingface,0
+i do not know what i have to do to chat with somebody,Warm,huggingface,1
+how do I see at what time I can contact customer service?,Warm,huggingface,1
+"I have got to receive your newsletter, can you help me?",Warm,huggingface,1
+Can you send over your product documentation? We have an internal review process and want to do our homework,Warm,synthetic,1
+"Strong initial interest but after internal review, their IT team flagged security compliance issues.",Cold,synthetic,2
+They're still dipping their toes in the water. Interested but not ready to jump.,Warm,synthetic,1
+"Following an internal review, we've determined your solution isn't the right fit. Thanks anyway",Cold,synthetic,2
+what do i have to do to list ur allowed payment options,Hot,huggingface,0
+can you show me the rebate current status?,Cold,huggingface,2
+want help to report a trouble with online payment,Hot,huggingface,0
+how do i inform of issues with a signup,Warm,huggingface,1
+how can i report problems with online payments,Hot,huggingface,0
+how do i unsubscribe fromur corporate newsletter,Warm,huggingface,1
+I am trying to see what hours I can reach customer service,Warm,huggingface,1
+i want help to list ur payment modalities,Hot,huggingface,0
+how can I contact a human agent?,Warm,huggingface,1
+Company is at a make-or-break inflection point. They said adopting our platform is non-negotiable for their roadmap.,Hot,synthetic,0
+help to see the early exit penalty,Cold,huggingface,2
+"spoke 2 procurement - all green, legal done, waiting on our end to send final docs",Hot,synthetic,0
+"Budget approved for next year -- but specifically to renew with their current vendor, not to switch.",Cold,synthetic,2
+could you help me reporting errors with online payment?,Hot,huggingface,0
+can you help me create a different bloody platinum account?,Hot,huggingface,0
+how can I list the accepted payment modalitiues?,Hot,huggingface,0
+how do I sign up to the newsletter?,Warm,huggingface,1
+can you help me listing your allowed payment modalities?,Hot,huggingface,0

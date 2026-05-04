@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LeadSense AI — Intelligent Lead Priority Engine</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap"
+        rel="stylesheet" />
+
+    <!-- Chart.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="theme.js"></script>
+    <script src="static/script.js"></script>
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <!-- ══════════ HEADER ══════════ -->
+        <header>
+            <div class="logo">
+                <div class="logo-icon">⚡</div>
+                <div class="logo-text">
+                    <h1>LeadSense AI</h1>
+                    <span>Intelligent Lead Priority Engine</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="status-pill">
+                    <div class="status-dot" id="statusDot"></div>
+                    <span id="statusText">Initializing…</span>
+                </div>
+                <button class="btn-sm" onclick="clearSession()">⟳ Clear Session</button>
+            </div>
+            <button class="btn-sm" onclick="toggleTheme()" id="themeBtn">
+                🌙 Dark
+            </button>
+
+        </header>
+
+        <!-- ══════════ STAT CARDS ══════════ -->
+        <div class="stats-row">
+            <div class="stat-card total">
+                <div class="stat-label">Total Leads</div>
+                <div class="stat-value" id="statTotal">0</div>
+                <div class="stat-sub">processed this session</div>
+            </div>
+            <div class="stat-card hot">
+                <div class="stat-label">🔴 Hot Leads</div>
+                <div class="stat-value" id="statHot">0</div>
+                <div class="stat-sub">high purchase intent</div>
+            </div>
+            <div class="stat-card warm">
+                <div class="stat-label">🟡 Warm Leads</div>
+                <div class="stat-value" id="statWarm">0</div>
+                <div class="stat-sub">engaged, nurturing</div>
+            </div>
+            <div class="stat-card cold">
+                <div class="stat-label">🔵 Cold Leads</div>
+                <div class="stat-value" id="statCold">0</div>
+                <div class="stat-sub">low intent or opt-out</div>
+            </div>
+        </div>
+
+        <!-- ══════════ MAIN GRID ══════════ -->
+        <div class="main-grid">
+
+            <!-- ── INPUT PANEL ── -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Lead Input</span>
+                    <span class="panel-badge">MiniLM</span>
+                </div>
+                <div class="panel-body">
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label">Lead Name</label>
+                            <input type="text" class="form-control" id="leadName" placeholder="John Smith" />
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">Company</label>
+                            <input type="text" class="form-control" id="leadCompany" placeholder="Acme Corp" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label">Source</label>
+                        <select class="form-control" id="leadSource">
+                            <option value="email">📧 Email</option>
+                            <option value="crm">🗂 CRM Note</option>
+                            <option value="chat">💬 Live Chat</option>
+                            <option value="form">📝 Web Form</option>
+                            <option value="manual">✍️ Manual Entry</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label">Lead Description / Inquiry</label>
+                        <textarea class="form-control" id="leadText"
+                            placeholder="Paste the email, CRM note, or inquiry here…&#10;&#10;e.g. 'Hi, I'm interested in your enterprise pricing. Can you schedule a demo this week?'"></textarea>
+                        <div class="char-count"><span id="charCount">0</span> / 5000</div>
+                    </div>
+
+                    <button class="btn-classify" id="classifyBtn" onclick="classifyLead()">
+                        <span id="btnLabel">⚡ Classify Lead</span>
+                        <span id="btnSpinner" class="spinner" style="display:none"></span>
+                    </button>
+
+                    <!-- Quick examples -->
+                    <div style="margin-top: 14px;">
+                        <div class="form-label" style="margin-bottom: 8px;">Quick Examples</div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+                            <button class="btn-sm" onclick="loadExample('hot')">🔴 Hot Example</button>
+                            <button class="btn-sm" onclick="loadExample('warm')">🟡 Warm Example</button>
+                            <button class="btn-sm" onclick="loadExample('cold')">🔵 Cold Example</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ── RESULT PANEL ── -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Classification Result</span>
+                    <span id="engineBadge" class="engine-badge" style="display:none">⚙ rule_based</span>
+                </div>
+                <div class="panel-body">
+
+                    <!-- Empty state -->
+                    <div class="result-empty" id="resultEmpty">
+                        <div class="icon">🎯</div>
+                        <p>Enter a lead description and click <strong>Classify Lead</strong> to get an AI-powered
+                            priority score.</p>
+                    </div>
+
+                    <!-- Result content -->
+                    <div class="result-content" id="resultContent">
+
+                        <!-- Verdict -->
+                        <div class="verdict" id="verdictBlock">
+                            <div class="verdict-badge" id="verdictEmoji">🔥</div>
+                            <div class="verdict-info">
+                                <div class="verdict-label" id="verdictLabel">Hot</div>
+                                <div class="verdict-sub" id="verdictSub">High purchase intent detected</div>
+                            </div>
+                        </div>
+
+                        <!-- Confidence -->
+                        <div class="confidence-block">
+                            <div class="conf-header">
+                                <span>Confidence Score</span>
+                                <span class="conf-value" id="confValue">0%</span>
+                            </div>
+                            <div class="conf-bar">
+                                <div class="conf-fill" id="confFill"></div>
+                            </div>
+                        </div>
+
+                        <!-- Probability breakdown -->
+                        <div class="prob-bars">
+                            <div class="prob-label">Class Probabilities</div>
+                            <div class="prob-row">
+                                <span class="prob-name hot">Hot</span>
+                                <div class="prob-track">
+                                    <div class="prob-bar hot" id="probHot"></div>
+                                </div>
+                                <span class="prob-pct" id="probHotPct">0%</span>
+                            </div>
+                            <div class="prob-row">
+                                <span class="prob-name warm">Warm</span>
+                                <div class="prob-track">
+                                    <div class="prob-bar warm" id="probWarm"></div>
+                                </div>
+                                <span class="prob-pct" id="probWarmPct">0%</span>
+                            </div>
+                            <div class="prob-row">
+                                <span class="prob-name cold">Cold</span>
+                                <div class="prob-track">
+                                    <div class="prob-bar cold" id="probCold"></div>
+                                </div>
+                                <span class="prob-pct" id="probColdPct">0%</span>
+                            </div>
+                        </div>
+
+                        <!-- RAG Intelligence -->
+                        <div class="rag-block" id="ragBlock" style="display:none">
+                            <div class="rag-label">
+                                <span>🧠 AI Intelligence Context</span>
+                            </div>
+                            <div class="rag-summary" id="ragSummary"></div>
+                            <div class="rag-content" id="ragContent"></div>
+                        </div>
+
+                        <!-- Detected signals -->
+                        <div class="signals-block" id="signalsBlock">
+                            <div class="signals-label">Detected Signals</div>
+                            <div class="signal-pills" id="signalPills"></div>
+                        </div>
+
+                        <!-- Meta -->
+                        <div class="meta-row" id="metaRow">
+                            <div class="meta-item">
+                                <span class="meta-key">Lead</span>
+                                <span class="meta-val" id="metaName">—</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-key">Company</span>
+                                <span class="meta-val" id="metaCompany">—</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-key">Source</span>
+                                <span class="meta-val" id="metaSource">—</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-key">Time</span>
+                                <span class="meta-val" id="metaTime">—</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- ── HISTORY / MEMENTO PANEL ── -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Memento</span>
+                    <span class="panel-badge" id="historyCount">0 records</span>
+                </div>
+
+                <!-- Filter tabs -->
+                <div class="filter-tabs">
+                    <button class="filter-tab active" onclick="filterHistory('All', this)">All</button>
+                    <button class="filter-tab" onclick="filterHistory('Hot', this)">🔴 Hot</button>
+                    <button class="filter-tab" onclick="filterHistory('Warm', this)">🟡 Warm</button>
+                    <button class="filter-tab" onclick="filterHistory('Cold', this)">🔵 Cold</button>
+                </div>
+
+                <div class="history-list" id="historyList">
+                    <div class="history-empty">No leads classified yet.<br />Results appear here.</div>
+                </div>
+            </div>
+
+        </div><!-- end main-grid -->
+
+        <!-- ══════════ ANALYTICS SECTION ══════════ -->
+        <div class="analytics-section">
+            <div class="panel-header"
+                style="background:none; border:none; padding: 20px 0 12px; border-bottom: 1px solid var(--border);">
+                <span class="panel-title" style="font-size: 16px;">Analytics Dashboard</span>
+                <button class="btn-sm" onclick="refreshAnalytics()">↻ Refresh</button>
+            </div>
+
+            <div class="analytics-grid" style="margin-top: 14px;">
+
+                <div class="chart-panel">
+                    <div class="chart-title">Lead Distribution</div>
+                    <div class="chart-container" style="height:200px">
+                        <canvas id="donutChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-panel">
+                    <div class="chart-title">Confidence Trend</div>
+                    <div class="chart-container" style="height:200px">
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-panel">
+                    <div class="chart-title">Lead Volume by Class</div>
+                    <div class="chart-container" style="height:200px">
+                        <canvas id="barChart"></canvas>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div><!-- end wrapper -->
+
+    <!-- Toast container -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- ══════════════════════════════════════════════════════
+     JAVASCRIPT
+══════════════════════════════════════════════════════ -->
+    <script src="static/script.js"></script>
+
+</body>
+
+</html>

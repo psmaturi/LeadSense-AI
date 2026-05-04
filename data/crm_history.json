@@ -1,0 +1,65 @@
+[
+    {
+        "id": "crm_001",
+        "customer_name": "John Smith",
+        "company": "TechCorp",
+        "interaction_type": "Demo",
+        "content": "Customer attended 2 demos last month. Expressed interest in enterprise features. Finance team requested a formal proposal for 50 seats.",
+        "date": "2024-03-15",
+        "sentiment": "Positive"
+    },
+    {
+        "id": "crm_002",
+        "customer_name": "Sarah Jones",
+        "company": "Global Logistics",
+        "interaction_type": "Email",
+        "content": "Previous email showed strong buying intent. They are comparing us with 2 other vendors but like our API documentation better.",
+        "date": "2024-04-02",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": "crm_003",
+        "customer_name": "Michael Brown",
+        "company": "Fast Retail",
+        "interaction_type": "Meeting",
+        "content": "Inquiry history shows they have been asking about pricing for 3 months but no budget has been allocated yet. CFO mentioned a budget freeze until Q3.",
+        "date": "2024-02-20",
+        "sentiment": "Cautious"
+    },
+    {
+        "id": "crm_004",
+        "customer_name": "Emily Davis",
+        "company": "Creative Agency",
+        "interaction_type": "Support",
+        "content": "Customer complained about slow response times in the past. They are currently looking for a more reliable partner for their lead management.",
+        "date": "2024-04-10",
+        "sentiment": "Negative"
+    },
+    {
+        "id": "crm_005",
+        "customer_name": "Robert Wilson",
+        "company": "Solaris Energy",
+        "interaction_type": "Webinar",
+        "content": "Attended 'Scaling Sales with AI' webinar. Downloaded the whitepaper on 'Lead Scoring Best Practices'.",
+        "date": "2024-04-25",
+        "sentiment": "Positive"
+    },
+    {
+        "id": "crm_006",
+        "customer_name": "Jessica Lee",
+        "company": "HealthFirst",
+        "interaction_type": "Call",
+        "content": "Discussed security requirements. They need HIPAA compliance which we have. Legal team is reviewing our MSA.",
+        "date": "2024-04-28",
+        "sentiment": "Positive"
+    },
+    {
+        "id": "crm_007",
+        "customer_name": "David Clark",
+        "company": "InnoSoft",
+        "interaction_type": "Email",
+        "content": "Requested a trial extension. They haven't had time to test the integration features yet.",
+        "date": "2024-04-15",
+        "sentiment": "Neutral"
+    }
+]
